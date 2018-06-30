@@ -42,6 +42,8 @@ To access the database from the terminal, run the command:
 
 Yeah, I know that some improvments are necessary. But, it is working for me at the moment. As soon as I make them, I will update this setup project.
 
-Again, feel free to contribute!!!
+Again, feel free to contribute!
+
+Thanks!
 
 💙
