@@ -38,7 +38,7 @@ To access the database from the terminal, run the command:
 
 ```mysql -uroot -p123456 -h localhost -P 3306 --protocol=tcp```
 
-## I kown...
+## I know...
 
 Yeah, I know that some improvments are necessary. But, it is working for me at the moment. As soon as I make them, I will update this setup project.
 
@@ -46,4 +46,4 @@ Again, feel free to contribute!
 
 Thanks!
 
-💙
+💙 🤟
