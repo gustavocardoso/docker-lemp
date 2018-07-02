@@ -1,4 +1,4 @@
-# Docker Lamp
+# Docker Lemp
 
 A simple Docker setup to run PHP, Nginx and MariaDB. It was made for my personal use. But if it will be useful to you, feel free use and contribute!
 
